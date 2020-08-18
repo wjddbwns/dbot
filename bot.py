@@ -18,7 +18,7 @@ await client.change_presence(activity=discord.Game(name="관리 하는중"))
 print("파엠커뮤니티:",client.user.name,"697449476603904011:",client.user.id,"1:",discord.__version__)
 
 
-client.run(os.environ['Njk3NDQ5NDc2NjAzOTA0MDEx.Xo3ccQ.LndN_Q_cyr6yG11iex36SW-_s-A'])
+client.run(os.environ['Njk3NDQ5NDc2NjAzOTA0MDEx.Xo3ccQ.Pcebl-LdA3rVjxD5ijYdYeHIq-E'])
 
 
 
